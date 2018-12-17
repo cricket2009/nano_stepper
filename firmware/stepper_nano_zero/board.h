@@ -26,7 +26,7 @@
 
 #include <Arduino.h>
 
-
+#define SMART_STEPPER_MKS
 //uncomment this if you are using the Mechaduino hardware
 //#define MECHADUINO_HARDWARE
 
